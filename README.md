@@ -76,7 +76,7 @@ To ensure the AI receives consistent input, all extraction branches merge into a
 *   **Contact Info**: A specialized AI node extracts the candidate's Name and Email.
 *   **Google Sheets**: The final data—Date, Resume Link, Contact Info, and the detailed AI Analysis—is appended as a new row in your tracking sheet.
 
-![Workflow Details](gif/workflow_overview_2.gif)
+![Workflow Details](gif/workflow_overview_1.1.gif)
 
 ## 🛠️ Setup & Prerequisites
 
